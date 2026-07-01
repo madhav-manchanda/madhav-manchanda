@@ -55,19 +55,6 @@ Always motivated, always building, and always learning one project at a time.
 
 ---
 
-### 🎯 Goals for 2026
-
-- [ ] Build end-to-end Machine Learning Projects
-- [ ] Dive deep into Neural Networks & Deep Learning
-- [ ] Master Python for Data Science and Backend
-- [ ] Improve C++ for competitive programming and performance
-- [ ] Become proficient in designing PostgreSQL schemas
-- [ ] Strengthen Linux administration skills
-- [ ] Learn Full-Stack Web Development
-- [ ] Contribute meaningfully to Open Source repositories
-- [ ] Create a strong, project-driven GitHub portfolio
-
----
 
 ### 🛠️ Featured Projects
 
