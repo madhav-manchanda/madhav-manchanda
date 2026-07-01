@@ -83,7 +83,7 @@ Always motivated, always building, and always learning one project at a time.
 
 <p align="center">
   <!-- Contribution Snake Animation -->
-  <img src="https://raw.githubusercontent.com/madhav-manchanda/madhav-manchanda/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/madhav-manchanda/madhav-manchanda/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
