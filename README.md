@@ -110,7 +110,7 @@ Always motivated, always building, and always learning one project at a time.
   <a href="https://your-portfolio-website.com">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:madhavmanchanda18@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
