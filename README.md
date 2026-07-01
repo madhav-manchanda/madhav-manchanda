@@ -104,7 +104,7 @@ Always motivated, always building, and always learning one project at a time.
   <a href="https://github.com/madhav-manchanda">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/madhav-manchanda-0069a9356?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://your-portfolio-website.com">
