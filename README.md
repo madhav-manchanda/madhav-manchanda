@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there, I'm Madhav Manchanda 👋
+# Hi there, I'm Madhav 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF5&center=true&vCenter=true&width=500&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;Python+%26+C%2B%2B+Developer;Open+Source+Contributor" alt="Typing SVG" /></a>
 
