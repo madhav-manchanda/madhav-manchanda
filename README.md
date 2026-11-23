@@ -1,45 +1,50 @@
 <div align="center">
 
-# MADHAV MANCHANDA
+<pre>
+┌───────────────────────────────────────────────────────────┐
+│  MADHAV MANCHANDA                              PROFILE / 01 │
+│  SOFTWARE · SYSTEMS · APPLIED AI                STATUS: ON  │
+└───────────────────────────────────────────────────────────┘
+</pre>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Software+Developer;AI+%26+ML+Enthusiast;Open-Source+Contributor&cursor=|" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1100&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+useful+software%2C+one+system+at+a+time.;Computer+Science+%7C+Software+Engineering+%7C+AI.;Learning+in+public.+Shipping+with+intent.&cursor=|" alt="Typing terminal prompt" />
 </a>
-
-**Building practical software. Exploring systems. Learning by shipping.**
 
 <br/>
 
-<a href="https://www.madhav.world/"><img src="https://img.shields.io/badge/PORTFOLIO-madhav.world-161B22?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/madhav-manchanda-0069a9356/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
-<a href="mailto:madhavmanchanda18@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-161B22?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-
+<a href="https://www.madhav.world/"><img src="https://img.shields.io/badge/PORTFOLIO-madhav.world-0D1117?style=flat-square&logo=vercel&logoColor=E6EDF3" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/madhav-manchanda-0069a9356/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
+<a href="mailto:madhavmanchanda18@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-0D1117?style=flat-square&logo=gmail&logoColor=E6EDF3" alt="Email" /></a>
 <img src="https://komarev.com/ghpvc/?username=madhav-manchanda&label=PROFILE%20VIEWS&color=30363D&style=flat-square" alt="Profile views" />
 
 </div>
 
 ---
 
-## About
+<pre>
+madhav@github:~$ whoami
+Computer Science student and hands-on builder focused on useful, reliable software.
 
-I'm a Computer Science student interested in the engineering behind useful, reliable software. I enjoy working across application development, backend systems, data, and lower-level problem solving.
+madhav@github:~$ status
+learning · designing · testing · shipping
+</pre>
 
-My approach is hands-on: understand the fundamentals, build something real, test the edges, and improve it. I value clear architecture, thoughtful user experience, maintainable code, and open-source collaboration.
+<details open>
+<summary><code>./about --open</code></summary>
 
-Currently focused on strengthening my foundations in **software engineering, data structures and algorithms, backend development, and applied AI/ML**.
+<br/>
 
-## Areas of Interest
+I’m interested in the engineering behind clear, dependable products: application development, backend systems, data workflows, and lower-level problem solving. My approach is practical—understand the fundamentals, build something real, test the edges, then improve it.
 
-| Area | Focus |
-|---|---|
-| Software Engineering | Application architecture, APIs, maintainable systems |
-| Backend Development | Python, FastAPI, databases, service design |
-| AI & Machine Learning | Data workflows, model experimentation, practical applications |
-| Systems & Linux | Linux environments, tooling, automation |
-| Computer Science | Data structures, algorithms, problem solving |
-| Open Source | Building, documenting, and improving developer tools |
+I care about clear architecture, thoughtful user experience, maintainable code, and open-source collaboration.
 
-## Technical Toolkit
+</details>
+
+<details>
+<summary><code>./stack --show</code></summary>
+
+<br/>
 
 <div align="center">
 
@@ -47,40 +52,51 @@ Currently focused on strengthening my foundations in **software engineering, dat
 
 </div>
 
-**Languages**  
-Python · C · C++ · Java · JavaScript · SQL
+| Layer | Working with |
+|---|---|
+| Languages | Python · C · C++ · Java · JavaScript · SQL |
+| Backend & data | FastAPI · PostgreSQL · SQLite · Supabase · NumPy · Pandas |
+| Systems & tools | Linux · Git · GitHub · VS Code · Android tooling |
 
-**Backend & Data**  
-FastAPI · Streamlit · PostgreSQL · SQLite · Supabase · NumPy · Pandas · Matplotlib
+</details>
 
-**Tools & Platforms**  
-Git · GitHub · Linux · VS Code · Android development tooling
+<details>
+<summary><code>./learning --now</code></summary>
 
-## Explore My Work
+<br/>
 
-I enjoy building projects that combine practical problem-solving with thoughtful engineering. Browse my public repositories to see what I'm working on, experiments, and open-source contributions.
+- Reliable backend services and clear API boundaries
+- Data structures, algorithms, and deliberate problem solving
+- Applied machine learning and data analysis foundations
+- Polished Android and web experiences
+- Linux, networking, and system behaviour
+
+</details>
+
+<details>
+<summary><code>./repositories --browse</code></summary>
+
+<br/>
 
 <div align="center">
 
 <a href="https://github.com/madhav-manchanda?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-View_on_GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
+  <img src="https://img.shields.io/badge/BROWSE_ALL_REPOSITORIES-OPEN_DIRECTORY-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="Browse all repositories" />
 </a>
 
 </div>
 
-## Currently Learning
+</details>
 
-- Designing reliable backend services and clear API boundaries.
-- Improving problem-solving skills through data structures and algorithms.
-- Developing stronger foundations in machine learning and data analysis.
-- Building polished Android and web experiences.
-- Understanding Linux, networking, and system behaviour at a deeper level.
-
-## GitHub Overview
+## Live Profile Metrics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/madhav-manchanda/madhav-manchanda/output/profile-metrics.svg" alt="Live GitHub profile metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/madhav-manchanda/madhav-manchanda/output/profile-metrics.svg" alt="Live GitHub profile metrics: repositories, stars, followers, and forks" width="100%" />
 </div>
+
+<sub>Automatically refreshed from public GitHub data.</sub>
+
+## Activity Signal
 
 <div align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=madhav-manchanda&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=8B949E&text_color=8B949E&icon_color=58A6FF" alt="GitHub statistics" />
@@ -91,32 +107,28 @@ I enjoy building projects that combine practical problem-solving with thoughtful
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-manchanda&layout=compact&hide_border=true&theme=transparent&title_color=8B949E&text_color=8B949E" alt="Most used languages" />
 </div>
 
-## Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madhav-manchanda&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub achievements" width="100%" />
-</div>
-
-## Contribution Activity
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhav-manchanda&bg_color=00000000&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
 </div>
 
+## Contribution Stream
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/madhav-manchanda/madhav-manchanda/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/madhav-manchanda/madhav-manchanda/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%" />
 </div>
 
-## Connect
-
-I'm always interested in thoughtful engineering discussions, collaboration, and useful open-source work.
+---
 
 <div align="center">
+
+<code>madhav@github:~$ contact --open</code>
+
+<br/><br/>
 
 [Portfolio](https://www.madhav.world/) · [LinkedIn](https://www.linkedin.com/in/madhav-manchanda-0069a9356/) · [GitHub](https://github.com/madhav-manchanda) · [Email](mailto:madhavmanchanda18@gmail.com)
 
-<br/>
+<br/><br/>
 
-<sub>Curiosity. Craft. Continuous improvement.</sub>
+<sub>Curiosity · Craft · Continuous improvement</sub>
 
 </div>
