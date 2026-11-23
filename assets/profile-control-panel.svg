@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Madhav's current operating panel</title><desc id="desc">A compact developer dashboard showing philosophy, current focus, and collaboration status.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0E1728"/><stop offset="1" stop-color="#080C18"/></linearGradient>
+  <linearGradient id="line" x1="0" x2="1"><stop stop-color="#67E8F9"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>
+  <style>
+   .m {font-family:'Fira Code','JetBrains Mono','Cascadia Code',monospace}.d {font-family:'Orbitron','Space Grotesk','Segoe UI',sans-serif;font-weight:700;letter-spacing:1px}.muted{fill:#7F91AB}.white{fill:#EAF2FF}.cyan{fill:#67E8F9}.purple{fill:#C4B5FD}.green{fill:#86EFAC}
+   .pulse {animation:pulse 3s ease-in-out infinite}.shine {animation:shine 5s ease-in-out infinite}@keyframes pulse{50%{opacity:.4}}@keyframes shine{50%{opacity:.35}}
+  </style>
+</defs>
+<rect width="1200" height="330" rx="18" fill="url(#bg)"/><rect x="1" y="1" width="1198" height="328" rx="17" fill="none" stroke="#2A3A55"/>
+<text x="34" y="40" class="m muted" font-size="12" letter-spacing="2.4">OPERATING PANEL / 2026</text><text x="1165" y="40" text-anchor="end" class="m green" font-size="12" letter-spacing="1.5">● ONLINE</text>
+<path x="0" d="M34 59H1166" stroke="url(#line)" stroke-width="1.5" class="shine"/>
+<g transform="translate(34 87)">
+ <rect width="350" height="202" rx="12" fill="#0B1323" stroke="#243753"/><text x="24" y="32" class="m cyan" font-size="12" letter-spacing="2">01 / PRINCIPLE</text><path d="M24 49H326" stroke="#253750"/>
+ <text x="24" y="91" class="d white" font-size="24">BUILD DELIBERATELY.</text><text x="24" y="123" class="m muted" font-size="13">Useful beats flashy. Fundamentals</text><text x="24" y="146" class="m muted" font-size="13">compound. Details matter.</text><text x="24" y="177" class="m purple" font-size="12">STATUS: EXECUTING</text>
+</g>
+<g transform="translate(425 87)">
+ <rect width="350" height="202" rx="12" fill="#0B1323" stroke="#243753"/><text x="24" y="32" class="m cyan" font-size="12" letter-spacing="2">02 / FOCUS</text><path d="M24 49H326" stroke="#253750"/>
+ <text x="24" y="88" class="m white" font-size="13">[01] backend systems</text><text x="24" y="115" class="m white" font-size="13">[02] data workflows</text><text x="24" y="142" class="m white" font-size="13">[03] applied AI</text><text x="24" y="177" class="m purple" font-size="12">MODE: LEARNING IN PUBLIC</text>
+</g>
+<g transform="translate(816 87)">
+ <rect width="350" height="202" rx="12" fill="#0B1323" stroke="#243753"/><text x="24" y="32" class="m cyan" font-size="12" letter-spacing="2">03 / SIGNAL</text><path d="M24 49H326" stroke="#253750"/>
+ <text x="24" y="91" class="d white" font-size="24">OPEN TO GOOD</text><text x="24" y="119" class="d white" font-size="24">PROBLEMS.</text><text x="24" y="151" class="m muted" font-size="13">Collaboration · open source · ideas</text><circle cx="29" cy="177" r="5" fill="#86EFAC" class="pulse"/><text x="44" y="181" class="m green" font-size="12">AVAILABLE</text>
+</g>
+</svg>
