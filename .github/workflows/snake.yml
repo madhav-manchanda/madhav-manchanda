@@ -38,7 +38,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Make generated directory writable
-        run: chmod -R u+w dist
+        run: |
+          sudo chown -R "$(id -u):$(id -g)" dist
+          chmod -R u+rwX dist
 
       - name: Generate live public profile metrics
         run: python scripts/generate_profile_metrics.py --output dist/profile-metrics.svg
