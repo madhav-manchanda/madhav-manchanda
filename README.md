@@ -3,15 +3,15 @@
 <img src="https://raw.githubusercontent.com/madhav-manchanda/madhav-manchanda/main/assets/profile-terminal.svg" alt="Madhav Manchanda terminal profile" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=67E8F9&center=true&vCenter=true&width=840&lines=%24+building+useful+software%2C+one+system+at+a+time.;%24+learning+in+public+%E2%80%94+shipping+with+intent.;%24+software+engineering+%7C+systems+%7C+applied+AI." alt="Terminal typing prompt" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=39FF7A&center=true&vCenter=true&width=840&lines=%24+building+useful+software%2C+one+system+at+a+time.;%24+learning+in+public+%E2%80%94+shipping+with+intent.;%24+software+engineering+%7C+systems+%7C+applied+AI." alt="Terminal typing prompt" />
 </a>
 
 <br/>
 
-<a href="https://www.madhav.world/"><img src="https://img.shields.io/badge/PORTFOLIO-madhav.world-0B1020?style=for-the-badge&logo=vercel&logoColor=EAF2FF" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/madhav-manchanda-0069a9356/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B1020?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn" /></a>
-<a href="mailto:madhavmanchanda18@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-0B1020?style=for-the-badge&logo=gmail&logoColor=EAF2FF" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=madhav-manchanda&label=PROFILE%20VIEWS&color=26354B&style=for-the-badge" alt="Profile views" />
+<a href="https://www.madhav.world/"><img src="https://img.shields.io/badge/PORTFOLIO-madhav.world-050805?style=for-the-badge&logo=vercel&logoColor=EAF2FF" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/madhav-manchanda-0069a9356/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-050805?style=for-the-badge&logo=linkedin&logoColor=39FF7A" alt="LinkedIn" /></a>
+<a href="mailto:madhavmanchanda18@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-050805?style=for-the-badge&logo=gmail&logoColor=EAF2FF" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=madhav-manchanda&label=PROFILE%20VIEWS&color=1F3A28&style=for-the-badge" alt="Profile views" />
 
 <br/><br/>
 
@@ -84,7 +84,7 @@ I learn by understanding the fundamentals, building something real, testing the 
 <div align="center">
 
 <a href="https://github.com/madhav-manchanda?tab=repositories">
-  <img src="https://img.shields.io/badge/OPEN_REPOSITORY_DIRECTORY-%3E__-0B1020?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Browse all repositories" />
+  <img src="https://img.shields.io/badge/OPEN_REPOSITORY_DIRECTORY-%3E__-050805?style=for-the-badge&logo=github&logoColor=39FF7A" alt="Browse all repositories" />
 </a>
 
 </div>
@@ -143,11 +143,11 @@ A multi-stage Python CLI that turns Udemy lectures into AI-generated study notes
 <tr>
 <td width="50%" align="center">
 <sub>CONTRIBUTION SUMMARY</sub><br/><br/>
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=madhav-manchanda&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=8B949E&text_color=8B949E&icon_color=67E8F9" alt="GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=madhav-manchanda&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=8B949E&text_color=8B949E&icon_color=39FF7A" alt="GitHub statistics" />
 </td>
 <td width="50%" align="center">
 <sub>CONSISTENCY SIGNAL</sub><br/><br/>
-<img height="175" src="https://streak-stats.demolab.com?user=madhav-manchanda&theme=transparent&hide_border=true&ring=67E8F9&fire=A78BFA&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub contribution streak" />
+<img height="175" src="https://streak-stats.demolab.com?user=madhav-manchanda&theme=transparent&hide_border=true&ring=39FF7A&fire=FF3355&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub contribution streak" />
 </td>
 </tr>
 </table>
@@ -161,7 +161,7 @@ A multi-stage Python CLI that turns Udemy lectures into AI-generated study notes
 
 <div align="center">
   <sub>CONTRIBUTION ACTIVITY</sub><br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhav-manchanda&bg_color=00000000&color=8B949E&line=67E8F9&point=C4B5FD&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhav-manchanda&bg_color=00000000&color=8B949E&line=39FF7A&point=FF3355&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
 </div>
 
 <img src="https://raw.githubusercontent.com/madhav-manchanda/madhav-manchanda/main/assets/divider.svg" width="100%" alt="" />
