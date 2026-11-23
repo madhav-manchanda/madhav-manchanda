@@ -1,118 +1,102 @@
 <div align="center">
-  
-# Hi there, I'm Madhav 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF5&center=true&vCenter=true&width=500&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;Python+%26+C%2B%2B+Developer;Open+Source+Contributor" alt="Typing SVG" /></a>
+# MADHAV MANCHANDA
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=madhav-manchanda&label=Profile%20Views&color=0e75b6&style=flat-square" alt="madhav-manchanda" />
-</p>
+**Computer Science Student · Software Developer · Open-Source Builder**
 
-### 🚀 About Me
+Building practical software, exploring systems, and learning by shipping.
 
-I am a driven Computer Science student with a deep passion for technology and a constant desire to learn new skills. I enjoy discovering how things work under the hood and spend my time exploring **Artificial Intelligence**, **Machine Learning**, **Python**, **C++**, and **Linux**.
+<br/>
 
-I believe the best way to learn is by getting my hands dirty—building real-world, practical projects and sharing my journey with the open-source community. Currently, I am expanding my horizons by gaining a foundational understanding of Web Development, aiming to become a well-rounded developer.
+<a href="https://www.madhav.world/"><img src="https://img.shields.io/badge/Portfolio-madhav.world-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/madhav-manchanda-0069a9356/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:madhavmanchanda18@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-374151?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
-Always motivated, always building, and always learning one project at a time.
+<img src="https://komarev.com/ghpvc/?username=madhav-manchanda&label=PROFILE%20VIEWS&color=374151&style=flat-square" alt="Profile views" />
 
----
-
-### 💻 Tech Stack & Skills
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,linux,git,github,vscode,postgres&theme=dark" />
-  </a>
-</p>
-
-**Languages:** 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Databases:** 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Tools:** 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</div>
 
 ---
 
-### 📚 Currently Exploring
+## About
 
-> *"The beautiful thing about learning is nobody can take it away from you."*
+I'm a Computer Science student interested in the engineering behind useful, reliable software. I enjoy moving between application development, backend systems, data, and lower-level problem solving.
 
-* 🤖 **Artificial Intelligence & Machine Learning** - Diving into intelligent systems and data patterns.
-* 🐍 **Python** - Mastering advanced concepts and automation.
-* 🐧 **Linux** - Strengthening command-line proficiency and system architecture.
-* 🗄️ **PostgreSQL** - Understanding relational databases and complex queries.
-* 🌿 **Git & GitHub** - Improving version control workflows.
-* 🌐 **Web Development** - Building a basic foundation to create full-stack projects.
+My approach is hands-on: understand the fundamentals, build something real, test the edges, and improve it. I value clear architecture, thoughtful user experience, maintainable code, and open-source collaboration.
 
----
+Currently focused on strengthening my foundations in **software engineering, data structures and algorithms, backend development, and applied AI/ML**.
 
+## Areas of Interest
 
-### 🛠️ Featured Projects
+| Area | Focus |
+|---|---|
+| Software Engineering | Application architecture, APIs, maintainable systems |
+| Backend Development | Python, FastAPI, databases, service design |
+| AI & Machine Learning | Data workflows, model experimentation, practical applications |
+| Systems & Linux | Linux environments, tooling, automation |
+| Computer Science | Data structures, algorithms, problem solving |
+| Open Source | Building, documenting, and improving developer tools |
 
-* 🤖 **[AI & Machine Learning Repo](#)** - *Exploring algorithms, neural networks, and predictive models.*
-* 🐍 **[Python Scripts & Tools](#)** - *Automation, data processing, and backend logic.*
-* 💻 **[C++ Projects](#)** - *Algorithms, data structures, and performance-critical applications.*
-* 🗄️ **[Database Architecture](#)** - *SQL queries, PostgreSQL database designs, and optimization.*
-* 🌐 **[Web Development Sandbox](#)** - *Learning the ropes of HTML, CSS, JavaScript, and beyond.*
+## Technical Toolkit
 
----
+<div align="center">
 
-### 📊 GitHub Analytics
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,c,js,html,css,fastapi,postgres,sqlite,git,github,linux,vscode&perline=7)](https://skillicons.dev)
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=madhav-manchanda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhav-manchanda&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=madhav-manchanda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
-</p>
+**Languages**  
+Python · C · C++ · Java · JavaScript · SQL
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhav-manchanda&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
-</p>
+**Backend & Data**  
+FastAPI · Streamlit · PostgreSQL · SQLite · Supabase · NumPy · Pandas · Matplotlib
 
-<p align="center">
-  <!-- Contribution Snake Animation -->
-  <img src="https://raw.githubusercontent.com/madhav-manchanda/madhav-manchanda/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
+**Tools & Platforms**  
+Git · GitHub · Linux · VS Code · Android development tooling
 
----
+## Selected Work
 
-### ⚡ Fun Facts
+A selection of projects and tools I have worked on. Each project is an opportunity to explore a problem, make engineering decisions, and learn through implementation.
 
-* 🧩 I thoroughly enjoy the mental gymnastics of solving programming problems.
-* 📚 I am addicted to learning new technologies and frameworks.
-* 🐧 Proud Linux enthusiast (I love the terminal!).
-* 🏗️ I am always building something new, tinkering with ideas in my free time.
-* 🐢 I believe in learning one project at a time to truly understand the core concepts.
+| Project | What it explores |
+|---|---|
+| [PocketPrint](https://github.com/madhav-manchanda/usb-printer-to-wifi-printer) | Turning a USB printer into a remotely accessible printing solution using Android and a lightweight backend |
+| [UdhaM](https://github.com/madhav-manchanda/udhaM) | Group expense tracking, shared balances, and mobile application engineering |
+| [BitChord](https://github.com/kushagrasinghx/BitChord) | Music player experience and Android platform integration |
+| [CarLocationTracker](https://github.com/madhav-manchanda/CarLocationTracker) | Local-first vehicle tracking, embedded Android services, and remote connectivity research |
+| [logicroot](https://pypi.org/project/logicroot/) | A Python package published on PyPI |
 
----
+More experiments and repositories are available in the [repositories tab](https://github.com/madhav-manchanda?tab=repositories).
 
-### 📫 Connect With Me
+## Currently Learning
 
-<p align="center">
-  <a href="https://github.com/madhav-manchanda">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/madhav-manchanda-0069a9356?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.madhav.world/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:madhavmanchanda18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+- Designing reliable backend services and clear API boundaries.
+- Improving problem-solving skills through data structures and algorithms.
+- Developing stronger foundations in machine learning and data analysis.
+- Building polished Android and web experiences.
+- Understanding Linux, networking, and system behaviour at a deeper level.
+
+## GitHub Overview
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=madhav-manchanda&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=8B949E&text_color=8B949E&icon_color=58A6FF" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-manchanda&layout=compact&hide_border=true&theme=transparent&title_color=8B949E&text_color=8B949E" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhav-manchanda&bg_color=00000000&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
+</div>
+
+## Connect
+
+I'm always interested in thoughtful engineering discussions, collaboration, and useful open-source work.
+
+<div align="center">
+
+[Portfolio](https://www.madhav.world/) · [LinkedIn](https://www.linkedin.com/in/madhav-manchanda-0069a9356/) · [GitHub](https://github.com/madhav-manchanda) · [Email](mailto:madhavmanchanda18@gmail.com)
+
+<br/>
+
+<sub>Designed around curiosity, craft, and continuous improvement.</sub>
 
 </div>
