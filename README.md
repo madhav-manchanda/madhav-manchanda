@@ -79,15 +79,29 @@ I enjoy building projects that combine practical problem-solving with thoughtful
 ## GitHub Overview
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=madhav-manchanda&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=8B949E&text_color=8B949E&icon_color=58A6FF" alt="GitHub statistics" />
+  <img src="https://raw.githubusercontent.com/madhav-manchanda/madhav-manchanda/output/profile-metrics.svg" alt="Live GitHub profile metrics" width="100%" />
+</div>
+
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=madhav-manchanda&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=8B949E&text_color=8B949E&icon_color=58A6FF" alt="GitHub statistics" />
+  <img height="175" src="https://streak-stats.demolab.com?user=madhav-manchanda&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub contribution streak" />
+</div>
+
+<div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-manchanda&layout=compact&hide_border=true&theme=transparent&title_color=8B949E&text_color=8B949E" alt="Most used languages" />
 </div>
+
+## Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=madhav-manchanda&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub achievements" width="100%" />
+</div>
+
+## Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhav-manchanda&bg_color=00000000&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
 </div>
-
-## Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/madhav-manchanda/madhav-manchanda/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph animation" width="100%" />
