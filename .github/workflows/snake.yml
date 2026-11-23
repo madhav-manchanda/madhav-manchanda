@@ -37,6 +37,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Make generated directory writable
+        run: chmod -R u+w dist
+
       - name: Generate live public profile metrics
         run: python scripts/generate_profile_metrics.py --output dist/profile-metrics.svg
         env:
