@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="490" viewBox="0 0 1200 490" role="img" aria-labelledby="title desc">
+  <title id="title">Madhav Manchanda terminal profile</title>
+  <desc id="desc">A terminal window introducing Madhav Manchanda, a software and systems builder.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="55%" stop-color="#0B1020"/>
+      <stop offset="100%" stop-color="#070B14"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="52%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#94A3B8" stroke-opacity=".045" stroke-width="1"/>
+    </pattern>
+    <style>
+      .mono { font-family: 'JetBrains Mono','Cascadia Code','SFMono-Regular',Consolas,monospace; }
+      .display { font-family: 'Space Grotesk','Segoe UI',Arial,sans-serif; font-weight: 700; letter-spacing: 1.4px; }
+      .muted { fill: #8290A6; }
+      .white { fill: #EAF2FF; }
+      .cyan { fill: #67E8F9; }
+      .violet { fill: #C4B5FD; }
+      .green { fill: #86EFAC; }
+    </style>
+  </defs>
+  <rect width="1200" height="490" rx="24" fill="#070B14"/>
+  <rect x="18" y="18" width="1164" height="454" rx="17" fill="url(#surface)" stroke="#26354B"/>
+  <rect x="18" y="18" width="1164" height="454" rx="17" fill="url(#grid)"/>
+  <path d="M35 76H1165" stroke="#26354B"/>
+  <circle cx="55" cy="47" r="7" fill="#FB7185"/>
+  <circle cx="80" cy="47" r="7" fill="#FBBF24"/>
+  <circle cx="105" cy="47" r="7" fill="#4ADE80"/>
+  <text x="600" y="52" text-anchor="middle" class="mono muted" font-size="13" letter-spacing="2">MADHAV@GITHUB — TERMINAL</text>
+  <path d="M38 77H1162" stroke="url(#edge)" stroke-opacity=".72">
+    <animate attributeName="stroke-opacity" values=".35;.9;.35" dur="4.5s" repeatCount="indefinite"/>
+  </path>
+  <text x="66" y="123" class="mono cyan" font-size="18">madhav@github</text>
+  <text x="235" y="123" class="mono muted" font-size="18">:</text>
+  <text x="252" y="123" class="mono violet" font-size="18">~</text>
+  <text x="270" y="123" class="mono white" font-size="18">$</text>
+  <text x="294" y="123" class="mono white" font-size="18">./profile --identity</text>
+  <text x="66" y="172" class="display white" font-size="42">MADHAV MANCHANDA</text>
+  <text x="68" y="204" class="mono muted" font-size="16" letter-spacing="1">SOFTWARE ENGINEERING  /  SYSTEMS  /  APPLIED AI</text>
+  <rect x="66" y="232" width="1068" height="1" fill="#26354B"/>
+  <text x="66" y="273" class="mono green" font-size="16">[online]</text>
+  <text x="165" y="273" class="mono muted" font-size="16">building useful software with curiosity and intent</text>
+  <text x="66" y="318" class="mono cyan" font-size="16">madhav@github</text>
+  <text x="218" y="318" class="mono muted" font-size="16">:</text>
+  <text x="235" y="318" class="mono violet" font-size="16">~</text>
+  <text x="252" y="318" class="mono white" font-size="16">$</text>
+  <text x="276" y="318" class="mono white" font-size="16">focus --now</text>
+  <text x="66" y="350" class="mono muted" font-size="16">backend systems · data workflows · strong fundamentals · shipping in public</text>
+  <text x="66" y="403" class="mono cyan" font-size="16">madhav@github</text>
+  <text x="218" y="403" class="mono muted" font-size="16">:</text>
+  <text x="235" y="403" class="mono violet" font-size="16">~</text>
+  <text x="252" y="403" class="mono white" font-size="16">$</text>
+  <rect x="276" y="386" width="11" height="22" rx="1" fill="#67E8F9" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <text x="1085" y="438" class="mono muted" font-size="12" text-anchor="end">STATUS: ACTIVE</text>
+  <circle cx="1108" cy="433" r="5" fill="#4ADE80">
+    <animate attributeName="opacity" values="1;.35;1" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
