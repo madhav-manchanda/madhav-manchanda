@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/madhav-manchanda/madhav-manchanda/main/assets/profile-terminal.svg" alt="Madhav Manchanda terminal profile" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=67E8F9&center=true&vCenter=true&width=840&lines=%24+building+useful+software%2C+one+system+at+a+time.;%24+learning+in+public+%E2%80%94+shipping+with+intent.;%24+software+engineering+%7C+systems+%7C+applied+AI.&cursor=_" alt="Terminal typing prompt" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=67E8F9&center=true&vCenter=true&width=840&lines=%24+building+useful+software%2C+one+system+at+a+time.;%24+learning+in+public+%E2%80%94+shipping+with+intent.;%24+software+engineering+%7C+systems+%7C+applied+AI.&cursor=_" alt="Terminal typing prompt" />
 </a>
 
 <br/>
