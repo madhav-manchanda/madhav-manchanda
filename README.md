@@ -2,17 +2,19 @@
 
 # MADHAV MANCHANDA
 
-**Computer Science Student · Software Developer · Open-Source Builder**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Software+Developer;AI+%26+ML+Enthusiast;Open-Source+Contributor&cursor=|" alt="Typing animation" />
+</a>
 
-Building practical software, exploring systems, and learning by shipping.
+**Building practical software. Exploring systems. Learning by shipping.**
 
 <br/>
 
-<a href="https://www.madhav.world/"><img src="https://img.shields.io/badge/Portfolio-madhav.world-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/madhav-manchanda-0069a9356/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:madhavmanchanda18@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-374151?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.madhav.world/"><img src="https://img.shields.io/badge/PORTFOLIO-madhav.world-161B22?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/madhav-manchanda-0069a9356/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
+<a href="mailto:madhavmanchanda18@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-161B22?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=madhav-manchanda&label=PROFILE%20VIEWS&color=374151&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=madhav-manchanda&label=PROFILE%20VIEWS&color=30363D&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -20,7 +22,7 @@ Building practical software, exploring systems, and learning by shipping.
 
 ## About
 
-I'm a Computer Science student interested in the engineering behind useful, reliable software. I enjoy moving between application development, backend systems, data, and lower-level problem solving.
+I'm a Computer Science student interested in the engineering behind useful, reliable software. I enjoy working across application development, backend systems, data, and lower-level problem solving.
 
 My approach is hands-on: understand the fundamentals, build something real, test the edges, and improve it. I value clear architecture, thoughtful user experience, maintainable code, and open-source collaboration.
 
@@ -41,7 +43,7 @@ Currently focused on strengthening my foundations in **software engineering, dat
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,c,js,html,css,fastapi,postgres,sqlite,git,github,linux,vscode&perline=7)](https://skillicons.dev)
+[![Technical Skills](https://skillicons.dev/icons?i=python,cpp,java,c,js,html,css,fastapi,postgres,sqlite,git,github,linux,vscode&perline=7)](https://skillicons.dev)
 
 </div>
 
@@ -54,19 +56,17 @@ FastAPI · Streamlit · PostgreSQL · SQLite · Supabase · NumPy · Pandas · M
 **Tools & Platforms**  
 Git · GitHub · Linux · VS Code · Android development tooling
 
-## Selected Work
+## Explore My Work
 
-A selection of projects and tools I have worked on. Each project is an opportunity to explore a problem, make engineering decisions, and learn through implementation.
+I enjoy building projects that combine practical problem-solving with thoughtful engineering. Browse my public repositories to see what I'm working on, experiments, and open-source contributions.
 
-| Project | What it explores |
-|---|---|
-| [PocketPrint](https://github.com/madhav-manchanda/usb-printer-to-wifi-printer) | Turning a USB printer into a remotely accessible printing solution using Android and a lightweight backend |
-| [UdhaM](https://github.com/madhav-manchanda/udhaM) | Group expense tracking, shared balances, and mobile application engineering |
-| [BitChord](https://github.com/kushagrasinghx/BitChord) | Music player experience and Android platform integration |
-| [CarLocationTracker](https://github.com/madhav-manchanda/CarLocationTracker) | Local-first vehicle tracking, embedded Android services, and remote connectivity research |
-| [logicroot](https://pypi.org/project/logicroot/) | A Python package published on PyPI |
+<div align="center">
 
-More experiments and repositories are available in the [repositories tab](https://github.com/madhav-manchanda?tab=repositories).
+<a href="https://github.com/madhav-manchanda?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-View_on_GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
+</a>
+
+</div>
 
 ## Currently Learning
 
@@ -87,6 +87,12 @@ More experiments and repositories are available in the [repositories tab](https:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhav-manchanda&bg_color=00000000&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
 </div>
 
+## Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/madhav-manchanda/madhav-manchanda/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph animation" width="100%" />
+</div>
+
 ## Connect
 
 I'm always interested in thoughtful engineering discussions, collaboration, and useful open-source work.
@@ -97,6 +103,6 @@ I'm always interested in thoughtful engineering discussions, collaboration, and 
 
 <br/>
 
-<sub>Designed around curiosity, craft, and continuous improvement.</sub>
+<sub>Curiosity. Craft. Continuous improvement.</sub>
 
 </div>
