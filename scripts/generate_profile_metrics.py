@@ -103,29 +103,29 @@ def render(stats: dict[str, int]) -> str:
   <desc id="desc">Public repository, star, follower and fork counts generated automatically from GitHub.</desc>
   <defs>
     <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#0B1220"/>
+      <stop offset="0%" stop-color="#0D130F"/>
+      <stop offset="100%" stop-color="#030503"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#38BDF8"/>
-      <stop offset="100%" stop-color="#818CF8"/>
+      <stop offset="0%" stop-color="#00FF41"/>
+      <stop offset="100%" stop-color="#FF3355"/>
     </linearGradient>
     <style>
-      .eyebrow {{ fill:#8B949E; font:600 11px 'SFMono-Regular',Consolas,monospace; letter-spacing:2.2px; }}
-      .heading {{ fill:#E6EDF3; font:600 19px 'Segoe UI',Arial,sans-serif; }}
-      .label {{ fill:#8B949E; font:600 10px 'SFMono-Regular',Consolas,monospace; letter-spacing:1.15px; }}
-      .value {{ fill:#F0F6FC; font:600 31px 'Segoe UI',Arial,sans-serif; }}
+      .eyebrow {{ fill:#6F8A76; font:600 11px 'SFMono-Regular',Consolas,monospace; letter-spacing:2.2px; }}
+      .heading {{ fill:#EAFFF0; font:600 19px 'Segoe UI',Arial,sans-serif; }}
+      .label {{ fill:#6F8A76; font:600 10px 'SFMono-Regular',Consolas,monospace; letter-spacing:1.15px; }}
+      .value {{ fill:#EAFFF0; font:600 31px 'Segoe UI',Arial,sans-serif; }}
       .underline {{ fill:url(#accent); }}
-      .scan {{ stroke:#58A6FF; stroke-width:1; opacity:.10; }}
+      .scan {{ stroke:#39FF7A; stroke-width:1; opacity:.10; }}
     </style>
   </defs>
-  <rect x="1" y="1" width="998" height="218" rx="16" fill="url(#panel)" stroke="#263244"/>
+  <rect x="1" y="1" width="998" height="218" rx="16" fill="url(#panel)" stroke="#1F3A28"/>
   <path d="M18 17 H982" stroke="url(#accent)" stroke-width="2" opacity=".85"/>
   <text class="eyebrow" x="38" y="43">GITHUB / PUBLIC PROFILE</text>
   <text class="heading" x="38" y="68">An overview of what I'm building in the open.</text>
   {''.join(cells)}
   <text class="eyebrow" x="962" y="194" text-anchor="end">UPDATED {updated} UTC</text>
-  <circle cx="965" cy="42" r="4" fill="#3FB950">
+  <circle cx="965" cy="42" r="4" fill="#39FF7A">
     <animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/>
   </circle>
   <path class="scan" d="M24 177 H976">
