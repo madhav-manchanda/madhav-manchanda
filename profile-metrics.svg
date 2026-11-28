@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-labelledby="title desc">
+  <title id="title">Madhav Manchanda — GitHub overview</title>
+  <desc id="desc">Public repository, star, follower and fork counts generated automatically from GitHub.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D130F"/>
+      <stop offset="100%" stop-color="#030503"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00FF41"/>
+      <stop offset="100%" stop-color="#FF3355"/>
+    </linearGradient>
+    <style>
+      .eyebrow { fill:#6F8A76; font:600 11px 'SFMono-Regular',Consolas,monospace; letter-spacing:2.2px; }
+      .heading { fill:#EAFFF0; font:600 19px 'Segoe UI',Arial,sans-serif; }
+      .label { fill:#6F8A76; font:600 10px 'SFMono-Regular',Consolas,monospace; letter-spacing:1.15px; }
+      .value { fill:#EAFFF0; font:600 31px 'Segoe UI',Arial,sans-serif; }
+      .underline { fill:url(#accent); }
+      .scan { stroke:#39FF7A; stroke-width:1; opacity:.10; }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="998" height="218" rx="16" fill="url(#panel)" stroke="#1F3A28"/>
+  <path d="M18 17 H982" stroke="url(#accent)" stroke-width="2" opacity=".85"/>
+  <text class="eyebrow" x="38" y="43">GITHUB / PUBLIC PROFILE</text>
+  <text class="heading" x="38" y="68">An overview of what I'm building in the open.</text>
+  
+            <g transform="translate(38,0)">
+              <text class="label" x="0" y="89">PUBLIC REPOSITORIES</text>
+              <text class="value" x="0" y="137">19</text>
+              <rect class="underline" x="0" y="153" width="42" height="3" rx="1.5">
+                <animate attributeName="width" values="18;42;18" dur="3.2s" repeatCount="indefinite"/>
+              </rect>
+            </g>
+            
+            <g transform="translate(270,0)">
+              <text class="label" x="0" y="89">STARS EARNED</text>
+              <text class="value" x="0" y="137">4</text>
+              <rect class="underline" x="0" y="153" width="42" height="3" rx="1.5">
+                <animate attributeName="width" values="18;42;18" dur="3.6s" repeatCount="indefinite"/>
+              </rect>
+            </g>
+            
+            <g transform="translate(502,0)">
+              <text class="label" x="0" y="89">FOLLOWERS</text>
+              <text class="value" x="0" y="137">6</text>
+              <rect class="underline" x="0" y="153" width="42" height="3" rx="1.5">
+                <animate attributeName="width" values="18;42;18" dur="4.0s" repeatCount="indefinite"/>
+              </rect>
+            </g>
+            
+            <g transform="translate(734,0)">
+              <text class="label" x="0" y="89">FORKS</text>
+              <text class="value" x="0" y="137">0</text>
+              <rect class="underline" x="0" y="153" width="42" height="3" rx="1.5">
+                <animate attributeName="width" values="18;42;18" dur="4.4s" repeatCount="indefinite"/>
+              </rect>
+            </g>
+            
+  <text class="eyebrow" x="962" y="194" text-anchor="end">UPDATED 28 NOV 2026 UTC</text>
+  <circle cx="965" cy="42" r="4" fill="#39FF7A">
+    <animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <path class="scan" d="M24 177 H976">
+    <animate attributeName="opacity" values=".03;.16;.03" dur="5s" repeatCount="indefinite"/>
+  </path>
+</svg>
