@@ -101,24 +101,24 @@ I learn by understanding the fundamentals, building something real, testing the 
 <tr>
 <td width="50%" valign="top">
 
-**`JARVIS`** &nbsp;<sub>PERSONAL AI ASSISTANT</sub>
+**`UDHAM`** &nbsp;<sub>SHARED EXPENSES / FINTECH</sub>
 
-A personal AI assistant with a Python backend running on a VPS, with device-side execution on Android planned next.
+A shared expense and group finance app built to make tracking payments, splitting bills, and settling up simpler. Includes Google sign-in, multiple groups, offline support, and bank SMS transaction detection.
 
-<code>Python</code> <code>Backend</code> <code>Android</code> <code>AI</code>
+<code>Flutter</code> <code>Supabase</code> <code>Android</code> <code>Fintech</code>
 
-<!-- Add your repo link: [**View repository →**](https://github.com/madhav-manchanda/REPO-NAME) -->
+[**View repository →**](https://github.com/madhav-manchanda/udhaM)
 
 </td>
 <td width="50%" valign="top">
 
-**`NOTES-AI`** &nbsp;<sub>STUDY NOTES PIPELINE</sub>
+**`POCKETPRINT`** &nbsp;<sub>USB-TO-WIFI PRINTING</sub>
 
-A multi-stage Python CLI that turns Udemy lectures into AI-generated study notes.
+Turn a USB printer into a remotely accessible network printer using an Android phone connected over OTG. A FastAPI backend manages authentication, document uploads, print queues, and job progress.
 
-<code>Python</code> <code>CLI</code> <code>LLMs</code> <code>Automation</code>
+<code>Android</code> <code>USB OTG</code> <code>FastAPI</code> <code>Python</code>
 
-<!-- Add your repo link: [**View repository →**](https://github.com/madhav-manchanda/REPO-NAME) -->
+[**View repository →**](https://github.com/madhav-manchanda/usb-printer-to-wifi-printer)
 
 </td>
 </tr>
