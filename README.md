@@ -118,7 +118,7 @@ Turn a USB printer into a remotely accessible network printer using an Android p
 
 <code>Android</code> <code>USB OTG</code> <code>FastAPI</code> <code>Python</code>
 
-[**View repository →**](https://github.com/madhav-manchanda/usb-printer-to-wifi-printer)
+[**View repository →**](https://github.com/madhav-manchanda/PocketPrinter)
 
 </td>
 </tr>
